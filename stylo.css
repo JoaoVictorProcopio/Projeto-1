@@ -1,0 +1,22 @@
+h1{
+    color:blueviolet;
+    border-bottom: 2px solid darkblue ;
+}
+input{
+    color: mediumslateblue;
+}
+label{
+    color: indigo;
+}
+button{
+    color: midnightblue;
+}
+h3{
+    color:rebeccapurple;
+}
+body{
+    background-color:lightpink;
+}
+select{
+    color: darkslateblue;
+}
